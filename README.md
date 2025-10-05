@@ -23,7 +23,7 @@ Through visualization, we investigate **data veracity issues** such as:
 
 2. **t-SNE**
  - Reduce dimensionality to 2D for visualization.
- - Experimented with perplexities (5, 30, 50).
+ - Experimented with perplexities (5, 10, 20, 30, 40, 50).
  - Selected **perplexity=30** for best balance of local and global structure.
  - Identified noisy labels, outliers, and hard-to-learn samples using neighborhood statistics.
 
