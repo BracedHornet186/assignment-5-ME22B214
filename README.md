@@ -44,7 +44,7 @@ t-SNE highlighted **fine-grained clusters and local anomalies**, while Isomap pr
 - Libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `scipy`
 
 ## Project Structure
-- `DA5401_A5_yeast_visualization.ipynb` → Main notebook with preprocessing, dimensionality reduction, plots, and analysis.  
+- `ME22B214_A5.ipynb` → Main notebook with preprocessing, dimensionality reduction, plots, and analysis.  
 - `yeast/yeast-train.arff` → Dataset file (must be placed in the `yeast/` folder).  
 - `README.md` → Project overview and usage instructions.
 
